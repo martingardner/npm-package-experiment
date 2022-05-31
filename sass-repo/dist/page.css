@@ -1,0 +1,5 @@
+.box {
+  border: 1px solid red; }
+  .box .article {
+    padding: 5px;
+    font-size: 12px; }
